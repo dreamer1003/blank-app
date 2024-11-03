@@ -1,1 +1,5 @@
-streamlit
+streamlit,
+sentence_transformers,
+faiss-cpu,
+transformers,
+torch
