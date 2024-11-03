@@ -2,4 +2,9 @@ streamlit,
 sentence_transformers,
 faiss-cpu,
 transformers,
-torch
+torch,
+openai,
+langchain,
+langchain-openai,
+python-dotenv,
+sas7bdat
